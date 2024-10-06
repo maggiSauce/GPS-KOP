@@ -1,4 +1,4 @@
-""" This Python program represents the server for a simulation of GPS communication.
+""" This Python program represents the server for a simulation of GPS communication. 
 
 This sub System communicates with binary strings using SOCK_SEQPACKET and AF_UNIX. 
 This server recieves incoming commands from the client and echoes back the requested
